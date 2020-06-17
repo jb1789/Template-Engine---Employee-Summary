@@ -43,6 +43,14 @@
             .wrapper {
                 height: 100%;
             }
-#h5{
-    color: white;
-}
+            h5{
+                color:white;
+             }
+
+             h3{
+                color:white;
+                font-family: fantasy;
+                font-weight: bolder;
+                margin: 20px;
+
+             }
